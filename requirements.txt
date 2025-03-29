@@ -1,0 +1,3 @@
+python-vlc
+RPi.GPIO
+click
